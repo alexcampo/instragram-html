@@ -1,0 +1,64 @@
+
+
+body{
+    background: #BDBDBD;
+    margin: 0;
+}
+
+header{
+    background: white;
+    padding: 10px;
+    margin: auto;
+}
+h1{
+    margin: 0;
+}
+.post{
+    background: white;
+    margin-top: 10px
+}
+.post{
+    width: 100%
+}
+
+.post .post-header :first-child{
+    display: inline-block;
+    width: 76%;
+}
+
+.post .post-header :last-child{
+    display: inline-block;
+    width: 23%;
+    text-align: right
+}
+
+span{
+    padding: 10px;
+    color: gray;
+}
+
+p{
+    background: white;
+    margin: 0;
+    padding-top: 20px
+}
+
+p{
+    padding-bottom: 20px;
+}
+
+h2 .post{
+    padding: 0px;
+    margin: 0;
+}
+
+.container{
+    width: 600px;
+    margin: auto;
+}
+
+img{
+    width: 100%;
+}
+
+
